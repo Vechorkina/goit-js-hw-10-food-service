@@ -7,19 +7,19 @@
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://vechorkina.github.io/goit-js-hw-10-food-service/"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://vechorkina.github.io/goit-js-hw-10-food-service/"
+    "url": "git+https://Vechorkina.github.io/goit-js-hw-10-food-service/"
   },
   "keywords": [],
   "author": "Vechorkina artdeco.t@i.ua>",
   "license": "MIT",
   "bugs": {
-    "url": "https://vechorkina.github.io/goit-js-hw-10-food-service/"
+    "url": "https://Vechorkina.github.io/goit-js-hw-10-food-service/"
   },
-  "homepage": "https://vechorkina.github.io/goit-js-hw-10-food-service/",
+  "homepage": "https://Vechorkina.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
